@@ -136,6 +136,9 @@ body._pc .header__button:hover{
     text-decoration: none;
     text-align: center;
 }
+.swiper-wrapper{
+	overflow: hidden;
+}
 .header__right{
     width: auto;
     height: auto;
